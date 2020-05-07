@@ -9,7 +9,7 @@ The goals / steps of this project are the following:
 ![alt_text][image1]
 
 [//]: # (Image References)
-[image1]: ./images/result.png "Result"
+[image1]: ./result.png "Result"
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/1210/view) Points
