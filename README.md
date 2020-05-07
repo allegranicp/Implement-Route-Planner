@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 ## [Rubric](https://review.udacity.com/#!/rubrics/1210/view) Points
 ---
 
-The code for this project is contained in the IPython notebook: "Advanced_Lane_Finding.ipynb" 
+The code for this project is contained in the IPython notebook: "project_notebook.ipynb" 
 
 ### Discussion
 * How would you explain A-Star to a family member?
